@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskNexus - Prueba Técnica Davivienda
 
 **TaskNexus** es una aplicación móvil premium desarrollada en React Native, diseñada para la gestión eficiente de tareas con un enfoque **Offline-First**. La aplicación permite listar tareas sincronizadas desde una API, editarlas, eliminarlas y adjuntar fotografías capturadas directamente desde un módulo de cámara nativo.
@@ -63,3 +64,7 @@ Este proyecto ha sido desarrollado en colaboración con **Antigravity (AI Coding
 *   **React Navigation** (Navegación Stack)
 *   **Axios** (Consumo de API)
 *   **Kotlin/Java** (Lógica Nativa para Cámara y Avatares)
+=======
+# Prueba-Davivienda
+Proyecto Prueba
+>>>>>>> b768c96a81d6cb11f854cf254b90d7705106b95d
