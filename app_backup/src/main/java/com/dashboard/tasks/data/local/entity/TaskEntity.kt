@@ -1,0 +1,17 @@
+package com.dashboard.tasks.data.local.entity
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "tasks")
+data class TaskEntity(
+    @PrimaryKey val id: String,
+    val title: String,
+    val description: String,
+    val status: String,
+    val priority: String,
+    val assignedUserId: String,
+    val projectId: String,
+    val createdAt: Long,
+    val dueDate: Long
+)
